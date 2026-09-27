@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/PlaywrightLab.Api/PlaywrightLab.Api.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/PlaywrightLab.Tests/PlaywrightLab.Tests.csproj" />
+  </Folder>
+</Solution>
